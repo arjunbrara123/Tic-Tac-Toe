@@ -80,7 +80,6 @@ while check_winner == "":
         player_turn = 1
 
     # Ask user to move
-
     move = input(f"Player {player_turn} Move: ").lower()
 
     # Make if valid move
